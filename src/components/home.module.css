@@ -1,0 +1,46 @@
+
+body{
+    background-color:white;
+}
+.container{
+    width: 90%;
+}
+h2{
+    text-align: center;
+    color:rgb(4, 167, 31);
+}
+button{
+    color:green;
+    background-color:rgb(40, 158, 59);
+    align-items: center;
+}
+
+li{
+    color:green;
+    
+}
+a{
+    color:green;
+}
+.pal{
+ display:flex;
+ 
+ margin-right: 30%;
+ margin-left:30%;
+ align-items: center;
+ justify-content: center
+}
+
+.col {
+    display:flex;
+    
+    margin-right: 30%;
+    margin-left:30%;
+    align-items: center;
+    justify-content: center
+   }
+   
+alinear_dcha{
+    display: flex;
+    justify-content: flex-end;
+}
